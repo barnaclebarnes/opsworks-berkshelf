@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # Uncomment these lines if you want to live on the Edge:
 #
 group :development do
-  gem 'berkshelf'
+  # gem 'berkshelf'
 #   gem "berkshelf", github: "berkshelf/berkshelf"
 #   gem "vagrant", github: "mitchellh/vagrant", tag: "v1.6.3"
 end
